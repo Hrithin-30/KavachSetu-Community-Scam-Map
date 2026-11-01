@@ -1,0 +1,6 @@
+{
+  "summary":  "Plan to ensure the Citizen Sign-In screen with Guest option always appears first on app launch (clearing any leftover #admin hash on startup) and to replace the \"I4C Nodal Authority Gate\" heading with \"KavachSetu Admin Portal\" across the Admin login screen and Admin dashboard.",
+  "updatedAt":  "2026-11-01T03:31:03.144051200Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
